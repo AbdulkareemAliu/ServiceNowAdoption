@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Animal Shelter Adoption Tracker">3551ebd507a03110f0a8fbbf7c1ed0bc</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 18:30:53</sys_created_on>
+        <sys_id>9eb2635907a03110f0a8fbbf7c1ed07b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SysUserList</sys_name>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_1105686_animal_0">3551ebd507a03110f0a8fbbf7c1ed0bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">3551ebd507a03110f0a8fbbf7c1ed0bc</sys_scope>
+        <sys_update_name>sys_scope_privilege_9eb2635907a03110f0a8fbbf7c1ed07b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 18:30:53</sys_updated_on>
+        <target_name>SysUserList</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>
